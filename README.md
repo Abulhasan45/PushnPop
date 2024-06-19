@@ -1,4 +1,4 @@
-# FileDircount
+# PushnPop
 The C program pushnpop.c is implemented with basic pushd and popd operations.
 ## Table of contents
 - [Introduction]
